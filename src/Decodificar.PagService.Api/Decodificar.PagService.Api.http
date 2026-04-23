@@ -1,0 +1,6 @@
+@Decodificar.PagService.Api_HostAddress = http://localhost:5130
+
+GET {{Decodificar.PagService.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
